@@ -1,5 +1,8 @@
 # CPSC335-Project2
-
+Group Members:
+Joel Perez jperez4475@csu.fullerton.edu
+Ethan Jones
+Sean Castillo
   ## Algorithm 1: Run String Encoding
   ## Algorithm 2: Finding Target Substring
     * Invoke your Python configuration to run script. Example:
