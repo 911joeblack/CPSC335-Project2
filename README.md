@@ -1,5 +1,5 @@
 # CPSC335-Project2
-Group Members:
+### Group Members
 Joel Perez jperez4475@csu.fullerton.edu
 Ethan Jones
 Sean Delcastillo
