@@ -2,7 +2,7 @@
 Group Members:
 Joel Perez jperez4475@csu.fullerton.edu
 Ethan Jones
-Sean Castillo
+Sean Delcastillo
   ## Algorithm 1: Run String Encoding
   ## Algorithm 2: Finding Target Substring
     * Invoke your Python configuration to run script. Example:
