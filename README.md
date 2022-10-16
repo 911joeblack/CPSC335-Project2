@@ -1,8 +1,9 @@
 # CPSC335-Project2
 ### Group Members
-Joel Perez, jperez4475@csu.fullerton.edu
-Ethan Jones, ejonest@csu.fullerton.edu
-Sean Delcastillo, seanbdcastillo@csu.fullerton.edu
+  * Joel Perez jperez4475@csu.fullerton.edu
+  * Ethan Jones
+  * Sean Delcastillo seanbdcastillo@csu.fullerton.edu
+
   ## Algorithm 1: Run String Encoding
     Ensure you have a C++ Compiler installed on your machine. You can then close the repository to your machine and run
     the file through the terminal using the following commands:
@@ -22,6 +23,7 @@ Sean Delcastillo, seanbdcastillo@csu.fullerton.edu
         Professor Akwafuo indicated to another student the afternoon before the due date that the implementation should parse
         a text file. This is inconsistent with the project requirements as outlined by the project description given to us.
         This implementation uses hard-coded lists and prints the solution lists in terminal.
+        
   ## Algorithm 3: Merging Techniques
     Ensure you have a C++ Compiler installed on your machine, in this case we will use the g++ compiler Using git, clone the repository locally to your machine, or   
     optionally copy and paste into a file named Algo3.cpp If you have VSCode an the C/C++ extension installed, you can then open the project and press the run button.
