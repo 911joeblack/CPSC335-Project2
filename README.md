@@ -1,7 +1,7 @@
 # CPSC335-Project2
 ### Group Members
   * Joel Perez jperez4475@csu.fullerton.edu
-  * Ethan Jones
+  * Ethan Jones ejonest@csu.Fullerton.edu
   * Sean Delcastillo seanbdcastillo@csu.fullerton.edu
 
   ## Algorithm 1: Run String Encoding
