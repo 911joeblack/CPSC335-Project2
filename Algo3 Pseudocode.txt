@@ -1,0 +1,29 @@
+def (jaggedArray S) 
+//A jagged Array is a 2d array whose rows are of variable length
+// n represents to
+	arrSize = 0; //O(1)
+	returnString; //O(1)
+	
+	for i in S:  //O(n)
+		arrSize = arrSize + S[i].length //O(1)
+
+	//The following code combines all 
+	for i in S:	//O(1) is big O(1) because we only traverse the data set once
+		for j in S[i]: //O(n)
+			returnString.append(S[i][j]) //O(1)
+
+	i, j = 0
+	swapped = false
+
+	Overall: O(n^2)
+	for i in returnString: //O(n)
+		swapped = false //O(1)
+		for j in returnString: //O(n)
+			if returnString[i] > returnString[j]: //O(1)
+				swap(returnString[i], returnString[j]) //O(1)
+				swapped = true //O(1)
+
+		if swapped == true //O(1)
+			break //O(1)
+
+	return returnString //O(1)
